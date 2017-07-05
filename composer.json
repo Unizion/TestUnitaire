@@ -1,0 +1,17 @@
+{
+    "name": "leon/test-unitaire",
+    "authors": [
+        {
+            "name": "Leon",
+            "email": "w.leon@outlook.fr"
+        }
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+        "phpunit/phpunit": "5.7.*",
+        "friendsofphp/php-cs-fixer":"*"
+        
+    }
+}
